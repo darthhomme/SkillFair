@@ -109,6 +109,5 @@ footer li img {
   background-color: #7ec0ee;
 }
 .fb-comments{
-  margin: auto;
-  float: none;
+  align-items: center;
 }
